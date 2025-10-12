@@ -10,3 +10,4 @@
 
 ### project 3:number guessing game
 <img width="458" height="258" alt="image" src="https://github.com/user-attachments/assets/0efd882e-854b-464e-a7cf-ef49c3e8af41" />
+
