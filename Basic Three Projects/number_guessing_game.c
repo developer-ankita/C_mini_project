@@ -23,4 +23,4 @@ int main() {
     } while(guess != number);
 
     return 0;
-}no.gues
+}
